@@ -1,0 +1,2 @@
+def a_mathematical_example():
+    pass
